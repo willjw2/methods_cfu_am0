@@ -61,6 +61,6 @@ greet_person("William", "J.", "Wang")
 # What is the return value of your method?
 # The return value is nil, as print is like puts in that it returns nil
 # How many arguments did you pass your method?
-# Three arguments were passed
+# Three arguments
 # What data type was your argument(s)?
 # Strings
